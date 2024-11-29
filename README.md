@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdulmajeed229.github.io/PortFolio/](https://abdulmajeed229.github.io/PortFolio/)
 
-- 📫 How to reach me **amajeedd786@gmail.com**
+- 📫 How to reach me **contact@getforbe.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
