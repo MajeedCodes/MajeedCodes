@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://abdulmajeed229.github.io/Potfolio-Website/](https://abdulmajeed229.github.io/Potfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://abdulmajeed229.github.io/PortFolio/](https://abdulmajeed229.github.io/Potfolio-Website/)
 
 - 📫 How to reach me **amajeedd786@gmail.com**
 
