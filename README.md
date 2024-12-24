@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at https://abdulmajeed229.github.io/PortFolio/<br><br>📫 How to reach me contact@getforbe.com
+🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at https://abdulmajeed229.github.io/PortFoli/<br><br>📫 How to reach me contact@getforbe.com
 
 
 # 💻 Tech Stack:
